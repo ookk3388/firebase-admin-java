@@ -2,6 +2,10 @@
 
 -
 
+# v6.6.0
+
+-
+
 # v6.5.0
 
 - [added] `FirebaseOptions.Builder` class now provides a
